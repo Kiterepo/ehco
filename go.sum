@@ -190,8 +190,8 @@ github.com/prometheus/client_model v0.4.0/go.mod h1:oMQmHW1/JoDwqLtg57MGgP/Fb1CJ
 github.com/prometheus/common v0.0.0-20180801064454-c7de2306084e/go.mod h1:daVV7qP5qjZbuso7PdcryaAu0sAZbrN9i7WWcTMWvro=
 github.com/prometheus/common v0.44.0 h1:+5BrQJwiBB9xsMygAB3TNvpQKOwlkc25LbISbrdOOfY=
 github.com/prometheus/common v0.44.0/go.mod h1:ofAIvZbQ1e/nugmZGz4/qCb9Ap1VoSTIO7x0VV9VvuY=
-github.com/prometheus/node_exporter v1.6.0 h1:TKPvENRy8/yhKQWf862ssecaT9kQ1jnW9mQDtTzTIAU=
-github.com/prometheus/node_exporter v1.6.0/go.mod h1:+zK+m9vwxu19JHl/kVVmixdCT6fWWHlmcOUHDFpkt0Y=
+github.com/prometheus/node_exporter v1.6.1 h1:Srqr6UAOUDnKhurvYGIYa7GZXuMCwJpzT9KP8uTJ4vw=
+github.com/prometheus/node_exporter v1.6.1/go.mod h1:+zK+m9vwxu19JHl/kVVmixdCT6fWWHlmcOUHDFpkt0Y=
 github.com/prometheus/procfs v0.0.0-20180725123919-05ee40e3a273/go.mod h1:c3At6R/oaqEKCNdg8wHV1ftS6bRYblBhIjjI8uT2IGk=
 github.com/prometheus/procfs v0.11.0 h1:5EAgkfkMl659uZPbe9AS2N68a7Cc1TJbPEuGzFuRbyk=
 github.com/prometheus/procfs v0.11.0/go.mod h1:nwNm2aOCAYw8uTR/9bWRREkZFxAUcWzPHWJq+XBB/FM=
